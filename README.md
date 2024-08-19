@@ -44,6 +44,6 @@ Here’s a snapshot of the dashboard:
 ## Contact
 For any inquiries or feedback, feel free to reach out:
 - **Email:** chiragtripathi0602@gmail.com
-- **GitHub:** [yourusername](https://github.com/Chirag060)
+- **GitHub:** [Chirag060](https://github.com/Chirag060)
 
 
