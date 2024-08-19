@@ -38,7 +38,8 @@ To explore the dashboard and gain insights from the data:
 ## Example Visuals
 
 Here’s a snapshot of the dashboard:
-![Road Accident Analysis Dashboard](C:\Users\chira\OneDrive\Pictures\Screenshots\Screenshot 2024-08-20 020203.png)
+![Road Accident Analysis Dashboard]![Screenshot 2024-08-20 020203](https://github.com/user-attachments/assets/88e71178-5fdd-4b35-8d2a-1193bbb9baa9)
+
 
 ## Contact
 For any inquiries or feedback, feel free to reach out:
